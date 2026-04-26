@@ -60,7 +60,16 @@ BANK_FILE.json
 
 ---
 
-## 📸 Sample Output
+## 📸 Output Screenshots
+
+### 🔹 Account & JSON Data
+![Bank JSON 1](images/bank_json1.png)
+
+### 🔹 Transactions View
+![Bank JSON 2](images/bank_json2.png)
+
+### 🔹 System Output
+![Bank JSON 3](images/bank_json3.png)
 
 ```
 --- BANK MENU ---
