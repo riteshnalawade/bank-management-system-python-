@@ -2,7 +2,7 @@
 Bank Management System built in Python with OOP principles, supporting account handling, transactions, and JSON-based data storage.
 # 🏦 Bank Management System (Python)
 
-A simple Bank Management System built using Python and Object-Oriented Programming (OOP).
+A Menu Driven Bank Management System built using Python and Object-Oriented Programming (OOP).
 It allows users to perform core banking operations with data stored in a JSON file.
 
 ---
@@ -28,24 +28,12 @@ It allows users to perform core banking operations with data stored in a JSON fi
 
 ---
 
-## 📂 Project Structure
-
-```
-bank-management-system/
-│
-├── bank_management_system1.py
-├── BANK_FILE.json
-└── README.md
-```
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR-USERNAME/bank-management-system.git
+git clone https://github.com/riteshnalawade/bank-management-system.git
 ```
 
 2. Navigate to the project folder
@@ -85,17 +73,6 @@ BANK_FILE.json
 7. Transfer
 8. Exit
 ```
-
----
-
-## 📈 Future Improvements
-
-* Add GUI (Tkinter / Streamlit)
-* Integrate SQL database (PostgreSQL / MySQL)
-* Add password encryption
-* Add admin features
-
----
 
 ## 👨‍💻 Author
 
