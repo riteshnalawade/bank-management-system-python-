@@ -62,13 +62,13 @@ BANK_FILE.json
 
 ## 📸 Output Screenshots
 
-### 🔹 Account & JSON Data
+### 🔹 System Output
 ![Bank JSON 1](images/bank_json1.png)
 
-### 🔹 Transactions View
+### 🔹 Account & JSON Data
 ![Bank JSON 2](images/bank_json2.png)
 
-### 🔹 System Output
+### 🔹 Transactions View
 ![Bank JSON 3](images/bank_json3.png)
 
 ```
